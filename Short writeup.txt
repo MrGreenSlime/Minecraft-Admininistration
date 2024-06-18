@@ -1,0 +1,6 @@
+Minecolonies Automation is een project om een gedeelte van Minecolonies te automatiseren.
+Het gedeelte dat geautomatiseert wordt is het leveren van de gevraagde items aan de colonies.
+Dit gebeurt door een koppeling tussen Minecraft, LUA, C#, een API en een website.
+Eerst worden alle gevraagde items geextraheerd met LUA naar JSON files aan de hand van Computercraft.
+Hierna worden deze JSON files ingelezen en doorgestuurd naar de API via C#.
+Op de website kan je dan een mooi overzicht zien van de verschillende items die in het algemeen nodig zijn en de items die voor elke verschillende builder nodig is.
